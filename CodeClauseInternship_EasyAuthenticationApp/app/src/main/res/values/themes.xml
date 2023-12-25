@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EasyAuthenticationApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Primary Color -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryColor</item>
+        <item name="colorOnPrimary">@color/whiteColor</item>
+
+        <!-- Secondary Color -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/blackColor</item>
+
+        <item name="android:windowBackground">@color/offWhiteColor</item>
+
+    </style>
+
+    <style name="Theme.EasyAuthenticationApp" parent="Base.Theme.EasyAuthenticationApp" />
+</resources>

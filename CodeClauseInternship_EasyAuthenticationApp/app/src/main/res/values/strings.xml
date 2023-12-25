@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyAuthentication</string>
+
+    <string name="facebook_app_id">1664557877365428</string>
+    <string name="fb_login_protocol_scheme">fb1664557877365428</string>
+    <string name="facebook_client_token">a33c64d82a466a60347b0486cf6072f6</string>
+</resources>

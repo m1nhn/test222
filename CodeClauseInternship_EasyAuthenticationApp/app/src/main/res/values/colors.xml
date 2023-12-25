@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#FF5964</color>
+    <color name="secondaryColor">#FFE74C</color>
+
+    <color name="blackColor">#FF000000</color>
+    <color name="whiteColor">#FFFFFFFF</color>
+
+    <color name="offWhiteColor">#FDFDFD</color>
+    <color name="lightGreyColor">#C3C3C3</color>
+    <color name="darkGreyColor">#707073</color>
+
+</resources>
